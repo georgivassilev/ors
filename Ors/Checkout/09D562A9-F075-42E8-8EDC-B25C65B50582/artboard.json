@@ -41,7 +41,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -94,19 +94,7 @@
     },
     {
       "class": "shapeGroup",
-      "id": "63911CD9-8A90-4F84-886B-1BDD9FE336B5"
-    },
-    {
-      "class": "shapeGroup",
       "id": "287576D9-9887-483A-9F5E-714F65DA9923"
-    },
-    {
-      "class": "bitmap",
-      "id": "058FADDC-C872-4280-B492-C9EAE93A4644"
-    },
-    {
-      "class": "bitmap",
-      "id": "29B713DC-990D-441A-82CA-3428CAFF7BEF"
     },
     {
       "class": "text",
@@ -114,19 +102,11 @@
     },
     {
       "class": "text",
-      "id": "0006D1C7-0C77-4D61-935D-1CC51665AE5C"
+      "id": "4DF02310-BB6C-4E42-848A-39BAC7670FC1"
     },
     {
       "class": "text",
-      "id": "28123A90-CBD8-4EC7-9631-E047BE59A644"
-    },
-    {
-      "class": "text",
-      "id": "D01628E8-4B18-43F4-A23E-B6F4F09BEA7A"
-    },
-    {
-      "class": "text",
-      "id": "64F13AAF-84E4-46D9-ABBB-F99830D3B78B"
+      "id": "B7A90A57-9F91-4718-8EE4-9983D46D9B5F"
     },
     {
       "class": "text",
@@ -134,7 +114,15 @@
     },
     {
       "class": "text",
-      "id": "8B9C538D-0EF3-4F20-AD3C-258643F5B0DE"
+      "id": "807381D8-9F09-430B-980A-AF2B1C71F53B"
+    },
+    {
+      "class": "group",
+      "id": "D382A19E-63F9-4937-A861-823EB200A9E2"
+    },
+    {
+      "class": "text",
+      "id": "9D55A471-18EC-4A52-ACF5-EF50C05B1209"
     },
     {
       "class": "text",
@@ -142,15 +130,31 @@
     },
     {
       "class": "text",
-      "id": "8046E529-A949-4A8D-8FFA-62699C9A9864"
+      "id": "8F0AD5DE-F350-48E4-B095-5A66DE98F498"
     },
     {
       "class": "text",
-      "id": "CF72EF4B-E3FE-456B-A3B1-B8B7897399DA"
+      "id": "AC2B8DD5-A81F-4114-B689-52E639616403"
+    },
+    {
+      "class": "text",
+      "id": "C17DEC8C-E99E-4CF0-91A7-7D2C0D2D5ED7"
     },
     {
       "class": "shapeGroup",
       "id": "81EBE65C-1F39-45A4-962E-A0209D469093"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E213ABE1-A3F6-4DD7-A7F6-D69F86672F8E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8E971E99-FA58-4839-B415-28FB0F67D69D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1EA26A7B-256C-42FB-8F2E-299EA3925247"
     },
     {
       "class": "shapeGroup",
@@ -170,7 +174,75 @@
     },
     {
       "class": "text",
-      "id": "DFD0C40B-6A06-4E8B-B65E-D1B1368A42FE"
+      "id": "14215946-13BD-4D86-B962-FFFAE6E377E7"
+    },
+    {
+      "class": "group",
+      "id": "FE29E256-9750-4E12-9274-A308530AEF12"
+    },
+    {
+      "class": "group",
+      "id": "2ECB755D-1441-445D-8B80-F86F41EAE325"
+    },
+    {
+      "class": "group",
+      "id": "37E18B04-451A-4D86-8BB2-79CE26C2ADA5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "106B5B91-AB71-4582-86BD-7DF2BCB822A6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8A9352AF-70AD-4A8E-ACF8-41879C213D0A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A1078EA1-7AC7-4089-91F3-24BCC4192631"
+    },
+    {
+      "class": "group",
+      "id": "461B8665-2B68-4257-8B54-C8D6767AAC7A"
+    },
+    {
+      "class": "group",
+      "id": "5223E678-92C2-46FB-BD7A-5E1C14F7979B"
+    },
+    {
+      "class": "group",
+      "id": "A99C5B87-7A91-49E0-AF43-963AAC45BDDA"
+    },
+    {
+      "class": "group",
+      "id": "0A3E5191-C5E9-499B-8FD0-29A79295E3B4"
+    },
+    {
+      "class": "group",
+      "id": "FB18F586-A3B2-4C75-B710-79CDA224EE05"
+    },
+    {
+      "class": "bitmap",
+      "id": "E539B2A9-4770-4876-BE71-446F130BB22B"
+    },
+    {
+      "class": "bitmap",
+      "id": "1ADF0756-AB49-476E-B7B3-5527ED27A1FD"
+    },
+    {
+      "class": "bitmap",
+      "id": "3B3DFA2E-29A1-4BAF-8919-07B1D3E9822E"
+    },
+    {
+      "class": "group",
+      "id": "74A484A5-DAC6-4E04-8DF5-0B69787A9190"
+    },
+    {
+      "class": "group",
+      "id": "773DF2CA-1EAC-4E25-9589-746B172B8D8A"
+    },
+    {
+      "class": "group",
+      "id": "EAF03672-D413-4CCC-B03F-D29A8CE7F0A1"
     }
   ],
   "layout": {
@@ -188,7 +260,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1180
   },
-  "name": "Top Cart",
+  "name": "Order",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -200,6 +272,12 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

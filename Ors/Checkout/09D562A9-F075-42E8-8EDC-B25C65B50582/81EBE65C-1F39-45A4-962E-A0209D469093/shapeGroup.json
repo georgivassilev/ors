@@ -15,9 +15,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 1,
-    "width": 600,
-    "x": 40,
-    "y": 192
+    "width": 766,
+    "x": 20,
+    "y": 200
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -77,6 +77,12 @@
     ],
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   },
   "windingRule": 1
 }

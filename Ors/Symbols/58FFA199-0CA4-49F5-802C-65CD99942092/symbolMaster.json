@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 7,
+  "changeIdentifier": 1342,
   "do_objectID": "58FFA199-0CA4-49F5-802C-65CD99942092",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,7 +21,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 883,
+    "height": 945,
     "width": 300,
     "x": 14391,
     "y": -209
@@ -48,28 +48,28 @@
       "id": "BEA4CF00-1BF6-422E-B7BA-9A08FAE8A4E1"
     },
     {
-      "class": "group",
-      "id": "3FB3A42D-E6B7-4565-B9C9-E9E3F695F27A"
+      "class": "symbolInstance",
+      "id": "60EBB242-4F51-45C9-90D8-9E0958833E16"
     },
     {
       "class": "group",
-      "id": "B3DF92AB-73BE-43F9-9339-320B2578CB84"
+      "id": "99897247-5784-45AF-B2C1-8B8AA06398E8"
+    },
+    {
+      "class": "group",
+      "id": "5113F5AB-B179-4888-8E66-4B41380F30BC"
     },
     {
       "class": "group",
       "id": "F1BE013B-BB35-4947-B780-767A57858206"
     },
     {
-      "class": "text",
-      "id": "C87C042C-0762-4EF0-9033-16AC887C2FCA"
+      "class": "group",
+      "id": "36B1308E-1C1C-4B63-819B-76A38E28C218"
     },
     {
       "class": "text",
-      "id": "D87AC162-5C08-43F2-B098-A73C5A807ED1"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "A196F3D5-A985-4BE0-9DB1-01F5E6AB5DB1"
+      "id": "3AF6F156-A712-486D-9563-4537AA70E6A3"
     }
   ],
   "name": "Footer Mobile",

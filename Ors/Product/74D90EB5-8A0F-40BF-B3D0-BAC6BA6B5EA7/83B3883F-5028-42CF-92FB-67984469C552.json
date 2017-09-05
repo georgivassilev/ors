@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 883,
+    "height": 945,
     "width": 300,
     "x": 10,
     "y": 2184
@@ -25,9 +25,9 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 1,
-  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 1,
-  "masterInfluenceEdgeMinYPadding": 1,
+  "masterInfluenceEdgeMinYPadding": 0,
   "name": "Footer Mobile",
   "nameIsFixed": false,
   "resizingConstraint": 63,
