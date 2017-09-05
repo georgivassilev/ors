@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F7CC7143-AA51-484E-BB69-93EFC349B2CB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 283,
+    "width": 145,
+    "x": 155,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Product Mobile List Copy",
+  "nameIsFixed": false,
+  "overrides": {
+    "4599E2B9-41FF-428F-9D67-671004AC1D6C": " ",
+    "4F485E87-09E2-4F1B-AB65-7B26785730D9": {
+      "symbolID": "124A3181-081D-4D5C-BF57-5A75299805CC"
+    },
+    "90FB3C4F-0463-4963-A808-AE501816F2B1": {
+      "B3EE3DDE-9ACB-4D36-9CAC-AC3B341A58B2": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/40dbce6de528f4d717b76110e55695ea4956799b",
+        "_ref_class": "MSImageData"
+      }
+    },
+    "98AD1144-D46A-4B86-8195-9C756A4FB7A2": {
+      "symbolID": ""
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D87B1883-0852-4041-B613-B64FC7C224CC",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "do_objectID": "2608AEC7-2A4E-45ED-B6EC-CEEAA3F3B563",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 170,
+    "width": 300,
+    "x": 10,
+    "y": 897
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "217EEC65-5FDF-4B19-ACBA-3EFEF4DB49DF"
+    },
+    {
+      "class": "bitmap",
+      "id": "9AC98BC7-A8BF-4C94-AAC1-86BA801AB211"
+    }
+  ],
+  "name": "2er-Kombi_CW31_Teaser_rechts_Dressdination_Desktop_780x500",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

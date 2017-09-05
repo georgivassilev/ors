@@ -1,0 +1,90 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "730BDE0D-B9C3-4BE9-B8EF-5D1D69C02E14",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50.07406666937497,
+    "width": 219.8720155441158,
+    "x": -0.00006048793602531077,
+    "y": 0.3526518541976387
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "B5CB551C-77AE-4C1A-8BB2-82D4DBBC383C"
+    },
+    {
+      "class": "shapePath",
+      "id": "2AE2C011-1263-4756-86D2-445788012EA0"
+    },
+    {
+      "class": "shapePath",
+      "id": "F6506DD3-1B2F-4A2B-BD1E-0C8295F92227"
+    },
+    {
+      "class": "shapePath",
+      "id": "9A9753B7-3CA7-4E10-8004-3CE8D1B4D71E"
+    },
+    {
+      "class": "shapePath",
+      "id": "7DF6F385-2CC8-4E74-B702-5BEB3981D308"
+    },
+    {
+      "class": "shapePath",
+      "id": "249E86D4-966B-4321-9426-2A1DD6C660CF"
+    },
+    {
+      "class": "shapePath",
+      "id": "25D6EEF1-8BC0-480B-9D30-19B351C0A43B"
+    }
+  ],
+  "name": "Fill 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

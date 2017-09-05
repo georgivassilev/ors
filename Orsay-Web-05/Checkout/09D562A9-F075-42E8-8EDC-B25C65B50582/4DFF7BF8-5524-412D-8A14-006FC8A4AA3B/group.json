@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "4DFF7BF8-5524-412D-8A14-006FC8A4AA3B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 51,
+    "width": 220,
+    "x": 490,
+    "y": 35
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D9FE4674-4532-4084-80B7-CEAB92947447"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C2E8E3BF-1988-4FDD-9B24-4C0CFD23D5BE"
+    }
+  ],
+  "name": "Orsay-logo",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

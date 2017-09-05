@@ -1,0 +1,106 @@
+{
+  "_class": "group",
+  "do_objectID": "F40A422C-BC62-4B7B-93E9-DDA30D12AA6F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1230,
+    "width": 924,
+    "x": 236,
+    "y": 85
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "8720308D-0EBB-4730-8F79-C840E451A602"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "33C6F5F3-7D67-4A1D-AB48-9A074A23A7C7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "24CC700E-2C7F-40B0-8C6A-D53790C7FCD9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FDDEB01C-88F5-40E9-A47A-A1526C7200CF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1F924EB3-C2C1-48F5-8CF9-3DE48796CAA2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1B063CAF-9BFA-47BF-84D1-CCEF5800CF7D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5532812A-8B91-4765-A1A8-0E9B5A8E0545"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "07E5568C-F4A3-4846-85F7-CAF47710C252"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6DC48D0F-F9E8-46B6-933B-BD7DD06CF7C1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D7888F33-EA28-4B07-8318-7C3DD40B879A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ECFD5050-FD7C-4212-A1A5-450C4EA62DBD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "76F85D81-533D-4867-9362-BDBA7A98C9E6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9DDA44D2-7685-4ECE-9038-E5F617B4467F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "747F5454-1B9D-4840-A8FF-31217BFDD2DF"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

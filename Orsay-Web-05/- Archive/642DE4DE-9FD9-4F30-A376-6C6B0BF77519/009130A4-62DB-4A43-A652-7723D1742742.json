@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGZ2hYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIiMnLzAxMjM6PkZJTE9WWl5hY1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA2cEIAQQBBcEHAQVBCAEGNMREgoTGB1XTlMua2V5c1pOUy5vYmplY3RzpBQVFheABIAFgAaAB6QZGhscgAiACYARgBWAGVZOU0tlcm5fEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZVdOU0NvbG9yIj+VVVXSCiQlJl8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBCACtMREgooKy6iKSqAC4AMoiwtgA2ADoAPXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDUAAAAAAABcT3N3YWxkLUxpZ2h00jQ1NjdaJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjNjg5XE5TRGljdGlvbmFyeVhOU09iamVjdNI0NTs8XxAQTlNGb250RGVzY3JpcHRvcqI9OV8QEE5TRm9udERlc2NyaXB0b3LUP0BBCkJDREVaTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9ugACAEhABgBTSEgpHSKCAE9I0NUpLV05TQXJyYXmiSjnSNDVNTl8QEE5TUGFyYWdyYXBoU3R5bGWiTTnUUFFSClNEVFVVTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlRjAgMCAwAIAWgBjSVwpYWVROU0lEEAGAF9I0NVtcXE5TQ29sb3JTcGFjZaJdOVxOU0NvbG9yU3BhY2XSNDVfYFdOU0NvbG9yol850jQ1OGKiODnSNDVkZV8QEk5TQXR0cmlidXRlZFN0cmluZ6JmOV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFpalRyb290gAEACAARABoAIwAtADIANwBVAFsAYgBrAHIAfwCBAIMAhQCUAJsAowCuALMAtQC3ALkAuwDAAMIAxADGAMgAygDRAPMBBgEOARMBGAE1ATcBOQFAAUMBRQFHAUoBTAFOAVABZgF8AYUBkgGXAaIBqwHBAcUB0gHbAeAB8wH2AgkCEgIdAioCTAJOAlACUgJUAlkCWgJcAmECaQJsAnEChAKHApAClgKjArgCvwLBAsMCyALNAs8C0QLWAuMC5gLzAvgDAAMDAwgDCwMQAyUDKAM9A08DUgNXAAAAAAAAAgEAAAAAAAAAawAAAAAAAAAAAAAAAAAAA1k="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "009130A4-62DB-4A43-A652-7723D1742742",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 29,
+    "width": 82,
+    "x": 20,
+    "y": 445
+  },
+  "glyphBounds": "{{1, 7}, {77, 19}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "РАЗМЕРИ",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "5F7A52FA-4517-46ED-8581-F086372F760D"
+  },
+  "textBehaviour": 0
+}

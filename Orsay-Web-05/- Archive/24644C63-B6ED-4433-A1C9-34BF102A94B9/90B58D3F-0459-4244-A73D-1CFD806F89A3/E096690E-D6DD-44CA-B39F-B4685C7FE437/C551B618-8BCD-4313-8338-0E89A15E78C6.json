@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C551B618-8BCD-4313-8338-0E89A15E78C6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 390,
+    "width": 209,
+    "x": 295,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Product List/Normal Copy",
+  "nameIsFixed": false,
+  "overrides": {
+    "52753781-850D-497C-8158-3FD59C1FA6EF": {
+      "B3EE3DDE-9ACB-4D36-9CAC-AC3B341A58B2": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/0df074a24d7bd806b517d30ac0e3dc1b6aadc3bd",
+        "_ref_class": "MSImageData"
+      }
+    },
+    "52A971C1-15EA-4EE1-A75D-CDEA64AC91D8": {
+      "547D0B6E-4A20-486C-B8AF-9BD131F9A247": "XXS",
+      "symbolID": "2A3941CC-0FE1-4779-B6D9-C36FEE4443DA"
+    },
+    "6BC04E94-006F-4637-BEDE-C34E51CAC772": {
+      "symbolID": "3A6FEE25-DC7D-43A5-A772-96DFEE1D3548"
+    },
+    "7820E116-CEF7-4785-B245-0CE074353AAB": {
+      "21F80412-238E-497C-A656-A298BB3605E3": "79.00 лв.",
+      "23EE6ECF-5242-4571-B095-338068030C2F": "-20%",
+      "972405DF-7BC2-4F1A-9DEC-61207B7D11C0": "99.00 лв.",
+      "symbolID": "07D56606-EE5C-402C-B419-B288CA106D3F"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "5E7F6492-2251-464D-8659-D071C18C9301",
+  "verticalSpacing": 0
+}
