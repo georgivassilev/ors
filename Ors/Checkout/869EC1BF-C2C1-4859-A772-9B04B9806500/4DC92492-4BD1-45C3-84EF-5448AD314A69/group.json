@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "EAF03672-D413-4CCC-B03F-D29A8CE7F0A1",
+  "do_objectID": "4DC92492-4BD1-45C3-84EF-5448AD314A69",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,28 +13,28 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 103,
-    "width": 159,
+    "height": 45,
+    "width": 300,
     "x": 860,
-    "y": 579
+    "y": 504
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "text",
-      "id": "E6994708-E00B-44A4-B3DD-C691E61E173D"
+      "class": "shapeGroup",
+      "id": "E1FA8205-94EF-4EFF-9139-D2D6BCF92B15"
     },
     {
-      "class": "group",
-      "id": "E50023CE-FB05-40C8-9C89-F8CC67C03C75"
+      "class": "text",
+      "id": "CB803A5F-A8F7-4C69-87CF-7036D4163466"
     }
   ],
-  "name": "Group 7",
+  "name": "Group 4",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "C893A000-126B-4FA5-8901-56FD078F7A4C",
+  "do_objectID": "E1FA8205-94EF-4EFF-9139-D2D6BCF92B15",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1,
+    "height": 45,
     "width": 300,
-    "x": 860,
-    "y": 419
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,10 +29,10 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "47DB5217-3095-4C86-9C8D-CD72C82C9CEF"
+      "id": "61E634FD-B8A7-4197-8EF3-814D68DB2ECC"
     }
   ],
-  "name": "Rectangle 2 Copy 3",
+  "name": "Rectangle 2 Copy 2",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -63,9 +63,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8956738945578231,
-          "green": 0.8956738945578231,
-          "red": 0.8956738945578231
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "fillType": 0,
         "isEnabled": true,
