@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "2BAA7D93-3FF2-46B3-931A-07C22252AAC2",
+  "do_objectID": "E2374E8C-2D73-468A-9FDD-8885E610D15A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 72,
-    "width": 36,
-    "x": 20,
-    "y": 453
+    "height": 12,
+    "width": 12,
+    "x": 27,
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -25,14 +25,14 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "oval",
-      "id": "535BFD65-D558-4FD1-90AF-77C7BE8EE310"
+      "id": "700311AF-6BA1-495C-96D6-3C891B4AA7CC"
     }
   ],
-  "name": "Oval",
+  "name": "Oval Copy",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -46,13 +46,13 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "fillType": 0,
-        "isEnabled": false,
-        "position": 0,
+        "isEnabled": true,
+        "position": 1,
         "thickness": 1
       }
     ],
@@ -81,21 +81,6 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "constraints": {
-          "aspectRatio": {
-            "constant": 72,
-            "enabled": 1,
-            "modelID": "constraint_10eb9e8c-f15e-4b63-91a3-7c1b53241268",
-            "model_class": "ADModelConstraint",
-            "model_version": 0.1,
-            "multiplier": 36
-          },
-          "automatic": 1,
-          "modelID": "viewConstraints_412d3edc-0a7d-43e6-8810-56ecef76ec40",
-          "model_class": "ADModelViewConstraints",
-          "model_version": 0.1,
-          "scaleFactor": 1
-        }
       }
     }
   },

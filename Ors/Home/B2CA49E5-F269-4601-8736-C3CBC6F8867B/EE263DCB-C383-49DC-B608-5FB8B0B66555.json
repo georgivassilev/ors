@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "F09EBF52-A142-4567-B1C8-BB58A9AE1F86",
+  "do_objectID": "EE263DCB-C383-49DC-B608-5FB8B0B66555",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 18,
-    "width": 18,
-    "x": 20,
-    "y": 480
+    "height": 56,
+    "width": 56,
+    "x": 1124,
+    "y": 473
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,14 +24,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
+  "masterInfluenceEdgeMaxXPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 1,
+  "masterInfluenceEdgeMinYPadding": 1,
   "name": "FontAwsome/16px",
   "nameIsFixed": false,
   "overrides": {
-    "7F1C67BC-3320-4E94-B1B0-FA6951D4CF39": ""
+    "7D8BA8DE-0289-4164-95F2-817A172B81C0": ""
   },
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -43,7 +43,7 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "FF6B883F-3BC7-4D14-938E-4AD78156FEFE",
+  "symbolID": "AFDBFE83-F798-4ED0-86A9-376CCF1FF015",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

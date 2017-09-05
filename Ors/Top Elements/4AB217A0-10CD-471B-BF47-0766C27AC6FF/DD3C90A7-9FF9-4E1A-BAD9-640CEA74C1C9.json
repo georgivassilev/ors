@@ -27,7 +27,7 @@
   "masterInfluenceEdgeMaxXPadding": 1,
   "masterInfluenceEdgeMaxYPadding": 2,
   "masterInfluenceEdgeMinXPadding": 1,
-  "masterInfluenceEdgeMinYPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 1,
   "name": "Mobile Header/Menu",
   "nameIsFixed": false,
   "resizingConstraint": 63,
