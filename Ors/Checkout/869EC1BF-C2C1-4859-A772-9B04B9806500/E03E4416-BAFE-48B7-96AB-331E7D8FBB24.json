@@ -1,0 +1,54 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGcnNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHgcIDxAiIyQlJicoKSouNjc4OTpBRU1RVVhiZWhsblUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgB2AA28QDwQcBD4EMQQ4BDsENQQ9ACAEQgQ1BDsENQREBD4EPdMREgoTGiFXTlMua2V5c1pOUy5vYmplY3RzphQVFhcYGYAEgAWABoAHgAiACaYbHB0eHCCACoALgAyAFIALgBiAHFZOU0tlcm5fEA9OU1N0cmlrZXRocm91Z2hfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlV05TQ29sb3JbTlNVbmRlcmxpbmVfEBBOU1BhcmFncmFwaFN0eWxlIwAAAAAAAAAAEADSCissLV8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBOADdMREgovMjWiMDGADoAPojM0gBCAEYASXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCoAAAAAAABYT3BlblNhbnPSOzw9PlokY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaM9P0BcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00js8QkNfEBBOU0ZvbnREZXNjcmlwdG9yokRAXxAQTlNGb250RGVzY3JpcHRvctRGR0gKSUpLTFVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VPECcwLjI5MDIyMTYzMTUgMC4yOTAxNzUyODg5IDAuMjkwMjM3NDU2NgAQAYAVgBfSTgpPUFROU0lEEAGAFtI7PFJTXE5TQ29sb3JTcGFjZaJUQFxOU0NvbG9yU3BhY2XSOzxWV1dOU0NvbG9yolZA1lkKWltcXV5fYGFKYFpOU1RhYlN0b3BzXxAPTlNNaW5MaW5lSGVpZ2h0XE5TVGV4dEJsb2Nrc18QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25fEA9OU01heExpbmVIZWlnaHSAAIAbI0AsAAAAAAAAgBnSEgpjZKCAGtI7PGZnV05TQXJyYXmiZkDSOzxpal8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo2lrQF8QEE5TUGFyYWdyYXBoU3R5bGXSOzw/baI/QNI7PG9wXxASTlNBdHRyaWJ1dGVkU3RyaW5nonFAXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0XR1VHJvb3SAAQAIABEAGgAjAC0AMgA3AFgAXgBlAG4AdQCCAIQAhgCIAKkAsAC4AMMAygDMAM4A0ADSANQA1gDdAN8A4QDjAOUA5wDpAOsA8gEEASYBLgE6AU0BVgFYAV0BegF8AX4BhQGIAYoBjAGPAZEBkwGVAasBwQHKAdMB2AHjAewCAgIGAhMCHAIhAjQCNwJKAlMCWQJmAnsCpQKnAqkCqwKwArUCtwK5Ar4CywLOAtsC4ALoAusC+AMDAxUDIgNEA1YDWANaA2MDZQNqA2sDbQNyA3oDfQOCA5wDoAOzA7gDuwPAA9UD2APtA/8EAgQHAAAAAAAAAgEAAAAAAAAAdgAAAAAAAAAAAAAAAAAABAk="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "E03E4416-BAFE-48B7-96AB-331E7D8FBB24",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 14,
+    "width": 372.9999999999997,
+    "x": 413,
+    "y": 231
+  },
+  "glyphBounds": "{{1, 2}, {114, 14}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Мобилен телефон",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "9907D98F-3B42-427F-9093-ABE7BE0809A0"
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

@@ -29,7 +29,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 925,
+    "height": 1200,
     "width": 1200,
     "x": 1608,
     "y": -293
@@ -105,32 +105,64 @@
       "id": "101F3577-BA46-4C49-BE0C-55F652B6655C"
     },
     {
-      "class": "group",
-      "id": "6C65BE50-A952-4932-A823-2ABA475F2FD3"
+      "class": "shapeGroup",
+      "id": "53C1EFB7-B23D-4466-B4BB-3E5745494C2F"
     },
     {
-      "class": "group",
-      "id": "3894801F-27E5-4AFF-A891-5092F01B52C6"
+      "class": "text",
+      "id": "45FD42C5-509F-4CA0-8FCA-4D9CFBD8DFC8"
     },
     {
-      "class": "group",
-      "id": "C5DEDCC4-ECE6-4B10-9326-2ADCB473BC38"
+      "class": "text",
+      "id": "98D081CD-EF33-493C-886B-8FF96FECD8EE"
     },
     {
-      "class": "group",
-      "id": "98DF0295-AB05-4D07-A269-41BA1014D2DF"
+      "class": "shapeGroup",
+      "id": "562181C6-49AD-4D57-A6CA-0960F03FB336"
     },
     {
-      "class": "group",
-      "id": "13B21033-6D5A-4F36-8A0B-7A66B4ACEB1A"
+      "class": "text",
+      "id": "C563BDB2-8A4D-409F-8124-6497A0EEBEB5"
     },
     {
-      "class": "group",
-      "id": "154285DC-4E94-4DC7-9CD5-9951EC11512E"
+      "class": "shapeGroup",
+      "id": "4232FD7E-6BFE-4A80-A9F3-A43FCF86B031"
     },
     {
-      "class": "group",
-      "id": "0CB20702-A109-43F0-B432-F4AEB6860BA2"
+      "class": "text",
+      "id": "01F8D35E-98AB-440F-A3A6-9872EEBF06D9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EC9F023E-2EEB-466C-BA23-35FD6E0425DB"
+    },
+    {
+      "class": "text",
+      "id": "98B0DE40-F0D9-4156-8A47-702DBB06F55B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1222A680-8116-4AF1-AB41-BA6D1B64BDDD"
+    },
+    {
+      "class": "text",
+      "id": "E03E4416-BAFE-48B7-96AB-331E7D8FBB24"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2804BA40-A328-492F-BD98-89FFA361BB8A"
+    },
+    {
+      "class": "text",
+      "id": "8D686F37-530E-45F8-8726-8DD057EB4822"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FF87A400-B47D-4CAF-B00A-FE93D30517B2"
+    },
+    {
+      "class": "text",
+      "id": "B8038AEC-95A3-4D3B-81E9-8489C9C1C6EA"
     },
     {
       "class": "group",
@@ -163,6 +195,14 @@
     {
       "class": "group",
       "id": "4861780D-677D-4B8C-B5E5-2497D7DC30CC"
+    },
+    {
+      "class": "text",
+      "id": "7A836D31-3A80-48D5-ADD7-8342CC0E1165"
+    },
+    {
+      "class": "text",
+      "id": "10B7FB5C-A0F9-4A69-BE30-57BD094B7E2D"
     },
     {
       "class": "group",
